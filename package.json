@@ -1,0 +1,6 @@
+{
+  "name": "mini-support-desk",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "npx serve .", "test": "node --test" }
+}
